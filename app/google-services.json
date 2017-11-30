@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "675007518677",
+    "firebase_url": "https://nas-push.firebaseio.com",
+    "project_id": "nas-push",
+    "storage_bucket": "nas-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675007518677:android:528ea8f2becfc2b3",
+        "android_client_info": {
+          "package_name": "com.example.acer.nas_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675007518677-7be6so3s1k5tl77oqqr486ndm4hij10m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMNhusdDJxo9z1xOImP_enX2Xd1bLdGYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
